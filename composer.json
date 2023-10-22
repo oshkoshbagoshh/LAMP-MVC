@@ -1,0 +1,19 @@
+{
+    "name": "aj/aj-simple-mvc",
+    "description": "Simle MVC framework: a demo for LAMP/MAMP stack",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        },
+        "classmap": [
+            "app/"
+        ]
+    },
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": {
+        "name": "AJ Javadi",
+        "email": "amirjavadi25@gmail.com",
+        "url": "http://github.com/oshkoshbagoshh"
+}
+}

@@ -1,5 +1,7 @@
 <?php
 
+require_once '../vendor/autoload.php';
+
 // site name 
 define ('SITE_NAME', 'aj-simple-mvc');
 
