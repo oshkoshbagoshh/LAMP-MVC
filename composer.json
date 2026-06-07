@@ -17,7 +17,7 @@
         "url": "http://github.com/oshkoshbagoshh"
 },
     "require": {
-        "symfony/routing": "^6.3",
-        "symfony/http-foundation": "^6.3"
+        "symfony/routing": "^8.0",
+        "symfony/http-foundation": "^8.0"
     }
 }
